@@ -94,6 +94,12 @@ Impact:
 
 ![image](https://github.com/user-attachments/assets/e2413eae-dbe6-4ccc-ad00-c6970ba1cd38)
 
+Finally, color code each cell based on the following Risk Rating:
+
+![image](https://github.com/user-attachments/assets/6a8622d3-35ad-4ebe-9f61-bc2df853e58e)
+
+
+
 
 
 
